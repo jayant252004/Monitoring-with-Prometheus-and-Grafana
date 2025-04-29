@@ -165,6 +165,6 @@ Password: admin
 
 ## 🧾 Author
 
-> Created by Ishika Verma 
+> Created by Jayant Janu
 > Date: April 2025  
 > Tools: Docker, VS Code, Prometheus, Grafana, Node Exporter
